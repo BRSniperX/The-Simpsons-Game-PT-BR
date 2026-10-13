@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="banner_1920x1080" src="https://github.com/user-attachments/assets/0bbb6c7e-242a-40b9-a0da-47a4b59ff040" />
 # The Simpsons Game — Tradução PT-BR v1.0
 
 Primeira versão completa da tradução de **The Simpsons Game** (Xbox 360) para português do Brasil, testada no emulador **Xenia Canary**.
